@@ -6,7 +6,7 @@ I have created separate files for each task so that the work is easy to understa
 
 ## Tasks Completed
 
-1. **Task 1 – EDA Retail Sales**
+1. **Task 1 – EDA on Retail Sales Data**
    - Contains the analysis and work completed for Task 1.
 
 2. **Task 2 – Customer Segmentation Analysis**
